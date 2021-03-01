@@ -130,6 +130,7 @@
   },
   "defaultProject": "ng-adf",
   "cli": {
+    "analytics": "4ee54d69-585d-468d-b6f0-cf828486770d",
     "warnings": {
       "typescriptMismatch": false
     }
